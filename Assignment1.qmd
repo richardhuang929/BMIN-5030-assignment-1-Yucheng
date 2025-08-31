@@ -1,8 +1,8 @@
 ---
 title: 'Assignment 1'
 subtitle: "Data Science for Biomedical Informatics (BMIN5030)"
-format: 
-  html:
+format: qmd
+  html: https://github.com/richardhuang929/BMIN-5030-assignment-1-Yucheng
     theme: lumen
 editor: visual
 embed-resources: true
@@ -53,7 +53,7 @@ embed-resources: true
 
 6)  Provide a direct link in your html file to your GitHub account. That is, your GitHub username should be displayed, and clicking on it will result in opening of your GitHub account as illustrated by example provided. *(2 points)*
 
-    <https://github.com/richardhuang929/BMIN-5030-RICHARD>
+    [richardhuang929/BMIN-5030-assignment-1-Yucheng](https://github.com/richardhuang929/BMIN-5030-assignment-1-Yucheng/tree/main)
 
     [brielin](https://github.com/brielin)
 
