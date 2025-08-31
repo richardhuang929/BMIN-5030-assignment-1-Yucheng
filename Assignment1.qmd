@@ -1,0 +1,60 @@
+---
+title: 'Assignment 1'
+subtitle: "Data Science for Biomedical Informatics (BMIN5030)"
+format: 
+  html:
+    theme: lumen
+editor: visual
+embed-resources: true
+---
+
+------------------------------------------------------------------------
+
+### Instructions
+
+-   Download the qmd version of this file
+-   Complete the questions below in RStudio using the qmd file as a template
+-   Replace the sample text after each question with your answers.
+-   Save the qmd document as Assignment1\_*YOUR-LAST-NAME*.qmd
+-   Render your file to create an HTML document
+-   Turn in completed Assignment1\_*YOUR-LAST-NAME*.html file in Canvas under Assignments -\> Assignment 1
+-   Your assignment **must** be in html format or it will not be graded
+-   Grades will be assigned according to point scheme below and computed as a percentage of total possible points
+-   Lateness policy: If an urgent and unforeseen circumstance comes up and you need an extension to turn in an assignment, please contact Anurag, Brielin, Chloe and Max as soon as possible. Unless there is an arrangement in place, late assignments will be scored as follows:
+    -   25% of total score if 1 day late
+    -   50% of total score if 2 days late
+    -   75% of total score if 3 days late
+    -   Assignment will not be graded if 4 or more days late
+-   DUE DATE: 9/3/25 11:59pm
+
+------------------------------------------------------------------------
+
+### Questions
+
+1)  Provide your name. *(1 point)*
+
+    Yucheng Huang
+
+2)  Provide the graduate or educational program at Penn that you are part of. *(1 point)*
+
+    Master of Public Health in Epidemiology track
+
+3)  How would you rate your level of proficiency using R (1 point)?
+
+    6/10
+
+4)  Describe what research topic(s) interest you in 2-3 sentences. *(2 points)*
+
+    My major research interests are prevention Alzheimer's disease and cognitive impairment, breast cancer screening strategy and integration of data science and public health.
+
+5)  What are you most interested in learning while taking this course? *(2 points)*
+
+    I am most interested in learning how to properly use R for data cleaning and analysis in a standardized way that ensure reproducibilty of research results. I am also interested in gaining proficiency with major R packages like tidyverse and ggplot2.
+
+6)  Provide a direct link in your html file to your GitHub account. That is, your GitHub username should be displayed, and clicking on it will result in opening of your GitHub account as illustrated by example provided. *(2 points)*
+
+    <https://github.com/richardhuang929/BMIN-5030-RICHARD>
+
+    [brielin](https://github.com/brielin)
+
+------------------------------------------------------------------------
